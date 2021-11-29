@@ -1,0 +1,23 @@
+README.TXT
+
+This GitHub repository containes the R code used in analysis of all datasets used in: 
+"Static dental disparity and morphological turnover in sharks across the end-Cretaceous mass extinction"
+
+by Mohamad Bazzi, Benjamin P. Kear, Henning Blom, Per Erik Ahlberg, and Nicolas Campione
+
+Code written and maintained by Mohamad Bazzi
+Contact: mohamad.bazzi@uzh.ch; mohammed_bazzi@hotmail.com
+
+All datasets can be downloaded from: https://doi.org/10.5061/dryad.k30c2n0
+
+Last updated: 11/29/2021
+
+Code Files included:
+    Functions.R - 
+    RMasterScript.R - 
+
+
+Data files included:
+    Test.csv - 
+
+
