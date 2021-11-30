@@ -13,11 +13,7 @@ All datasets can be downloaded from: https://doi.org/10.5061/dryad.k30c2n0
 Last updated: 11/29/2021
 
 Code Files included:
-    Functions.R - 
-    RMasterScript.R - 
-
+    RMasterScript.R - This script contain all necessary code to run geometric morphometric and multivariate statistical analyses. 
 
 Data files included:
-    Test.csv - 
-
-
+    Shark-occurrence-data.csv - Accompanying metadata.
